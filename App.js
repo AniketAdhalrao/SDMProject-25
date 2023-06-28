@@ -76,9 +76,9 @@ function App() {
 <FunImage/>
 <TimeDate/>
 <StyledMsg/>
-<StudentForm_0004/>*/}
-<StudentForm_004/>
-
+<StudentForm_0004/>
+<StudentForm_004/>*/}
+<HelloClassComp/>
     </div>
   ) 
  
